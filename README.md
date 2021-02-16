@@ -22,4 +22,7 @@
 <ul>
   <li>pip freeze > requirements.txt</li>
 </ul> 
-
+# SQLAlchemy
+<ul>
+  <li>pip install flask-sqlalchemy</li>
+</ul>
