@@ -22,4 +22,8 @@
 <ul>
   <li>pip freeze > requirements.txt</li>
 </ul> 
+<p>Para instalar o requeriments.txt</p>
+<ul>
+  <li>pip install -r requirements.txt</li>
+</ul> 
 
