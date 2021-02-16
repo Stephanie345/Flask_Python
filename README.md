@@ -1,6 +1,7 @@
 # Para criar ambiente virtual
 * pip install virtualenv
 <p>Criar o nome do ambiente virtual: </p>
+#
 * python3 -m venv venv
 <p>Para ativar o ambiente virtual</p>
 * cd venv
